@@ -2,7 +2,7 @@
 
 ## Who We Are
 Hey! We're **Starstruck Studios**, a small but dedicated Roblox development team that loves creating fun Roblox experiences. We're not about rushing projects out the door. We believe in doing things properly and putting real care into what we build.
-Right now, we're working on our upcoming game, **Quick Sandwiches**! It's currently in early development and planned for a public beta release in **Q1-Q2 2026**. We're putting a lot of love into it and can't wait to show you more as we get closer to launch!
+Right now, we're working on our upcoming game, **Quick Sandwiches**! It's currently in early development and planned for a public beta release in **Q2-Q3 2026**. We're putting a lot of love into it and can't wait to show you more as we get closer to launch!
 
 ---
 
