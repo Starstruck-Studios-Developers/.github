@@ -35,8 +35,6 @@ If you think you can fill in, reach out!
   - Founder · Head Builder
 - **ivthered**
   - IT
-- **adama_master**
-  - Modeller
 - **personaitalian**
   - Music Composer
 - **lolpleplays**
