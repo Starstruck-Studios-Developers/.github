@@ -2,7 +2,7 @@
 
 ## Who We Are
 Hey! We're **Starstruck Studios**, a small but dedicated Roblox development team that loves creating fun Roblox experiences. We're not about rushing projects out the door. We believe in doing things properly and putting real care into what we build.
-Right now, we're working on our upcoming game, **Quick Sandwiches**! It's currently in early development and planned for a public beta release in **Q2-Q3 2026**. We're putting a lot of love into it and can't wait to show you more as we get closer to launch!
+Right now, we're working on our upcoming game, **Quick Sandwiches**! It's currently in early development and planned for a public beta release in **Q3 2026**. We're putting a lot of love into it and can't wait to show you more as we get closer to launch!
 
 ---
 
@@ -12,7 +12,7 @@ Interested to see more?
 - **Discord** [discord.gg/WQqfFJ2R7Y](https://discord.gg/WQqfFJ2R7Y)
 - **Roblox Community** [Starstruck-Studios](https://www.roblox.com/communities/35503322/Starstruck-Studios#!/about)
 - **TikTok** [@starstruck_studios](https://www.tiktok.com/@starstruck_studios)
-- **Website** [starstruck-studios.top](https://starstruck-studios.top)
+- **Website** [starstruck-studios.com](https://starstruck-studios.com)
 
 We hope to see you there!
 
@@ -35,10 +35,8 @@ If you think you can fill in, reach out!
   - Founder · Head Builder
 - **ivthered**
   - IT
-- **personaitalian**
+- **break**
   - Music Composer
-- **lolpleplays**
-  - Voice Over Actor (TikTok)
 
 ---
 
